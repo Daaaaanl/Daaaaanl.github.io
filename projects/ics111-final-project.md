@@ -10,9 +10,13 @@ summary: Our final project for ICS111
 
 
 
-  <img class="ui medium left rounded image" src="../images/ics111finalproj1.PNG">
-  <img class="ui medium left rounded image" src="../images/ics111finalproj2.PNG">
-  <img class="ui medium left rounded image" src="../images/ics111finalproj3.PNG">
-  <img class="ui medium left rounded image" src="../images/ics111finalproj4.PNG">
 
+
+
+  <img class="ui medium left rounded image" src="../images/ics111finalproj1.PNG">
+  <img class="ui medium right rounded image" src="../images/ics111finalproj2.PNG">
+  <img class="ui medium left rounded image" src="../images/ics111finalproj3.PNG">
+  <img class="ui medium right rounded image" src="../images/ics111finalproj4.PNG">
+
+Here is the finished project (without music):
 https://github.com/daaaaanl/ICS111
