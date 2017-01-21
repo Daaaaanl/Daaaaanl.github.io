@@ -10,7 +10,7 @@ summary: Reflection on JavaScript
 
  <img class="ui medium left rounded image" src="../images/jslogo.jpg">
   
-  ## JavaScript Thought
+ ## JavaScript Thoughts
   
   So far I think JavaScript is easy to follow and useful language. With some knowledge of C and Java, I feel like Javascript can be a lot less confusing compared to C and Java. I felt like I learned more about the format of JavaScript with the FreeCodeCamp tutorials since a bunch of the syntax is similar to Java. Something new that I thought was really interesting was the strictly equal operator( === ). I think that Javascript is a good programming language from a software engineering perspective because there is less confusion when checking what is wrong with the code because it will tell you what is wrong with your code unlike C, where it might not tell you what is wrong (i.e. when your index goes past the end of the array, it won’t tell you and it will crash).
 
