@@ -8,7 +8,7 @@ labels:
 summary: Reflection on JavaScript
 ---
 
- <img class="ui medium left rounded image" src="../images/jslogo.jpg">
+ <img class="ui medium floated left rounded image" src="../images/jslogo.jpg">
   
 ## JavaScript Thoughts
   
