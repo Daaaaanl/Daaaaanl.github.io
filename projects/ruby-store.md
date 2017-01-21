@@ -16,6 +16,10 @@ During the Fall 2016 semester of ICS 211, our ATA Tor asked us if there were peo
 
 
 <img class="ui medium right floated rounded image" src="../images/rails_store1.PNG">
+<img class="ui medium left floated rounded image" src="../images/rails_store2.PNG">
+<img class="ui medium floated rounded image" src="../images/rails_store3.PNG">
+<img class="ui medium right floated rounded image" src="../images/rails_store4.PNG">
+
 
 This is what we ended up with at the end of our meetings:
 https://github.com/daaaaanl/rails-playground
