@@ -22,7 +22,7 @@ I did a lot of research over the winter break browsing websites like Reddit, You
 
 ### Hands-on part!
 
-After unpacking everything, I got to work and messaged my friend along the way for some guidance. During the assembly stage, testing your parts to see if they run is a must. After you put in the processor, CPU fan, RAM sticks, and graphics card (if you have), hook it up to your power supply and monitor to make sure it starts up. If you don’t make sure it runs before you screw the motherboard in case, you’ll be making more work for yourself.
+After unpacking everything, I got to work and messaged my friend along the way for some guidance. During the assembly stage, testing your parts to see if they run is a must. After you put the processor, CPU fan, RAM stick(s), and graphics card (if you have) onto the motherboard, hook it up to your power supply and monitor to make sure it starts up. If you don’t make sure it runs before you screw the motherboard in case, you’ll be making more work for yourself.
 
   <img class="ui large rounded image" src="../images/component-testing.jpg">
 
