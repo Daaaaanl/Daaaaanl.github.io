@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rails_store1.PNG
+image: images/rails_store1-1.PNG
 title: Ruby Store
 date: 2016
 labels:
