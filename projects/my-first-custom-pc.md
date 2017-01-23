@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pc-case-1.jpg
+image: images/pc-case.jpg
 title: My Computer
 date: 2014
 labels:
