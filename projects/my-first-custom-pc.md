@@ -22,9 +22,9 @@ After unpacking everything, I got to work and messaged my friend along the way f
 
 After testing to make sure everything worked, the motherboard is placed into the case and screwed in. One of the only things left was to manage all the cables inside. Luckily the case I bought was very good for managing cables. The other side of the case could be unscrewed and the cables could be looped through to that side and the main body of the case would be very free of cables for maximum airflow.
 
-  <img class="ui medium right rounded image" src="../images/cable-management.jpg">
+  <img class="ui medium right floated rounded image" src="../images/cable-management.jpg">
   
-  <img class="ui medium left rounded image" src="../images/cable-management1.jpg">
+  <img class="ui medium left floated rounded image" src="../images/cable-management1.jpg">
 
 After everything was put into place, I started it up and it’s one of the best feelings you can have when you accomplish a project like this. Following building my computer, I have helped a few people pick parts, given them advice, and walked them through with building their own computers. With all of this, I have learned to do extensive research, budgeting, computer hardware knowledge, and gained computer building experience. On top of that, I had fun building my computer. I would love to build another when the time comes. 
 
