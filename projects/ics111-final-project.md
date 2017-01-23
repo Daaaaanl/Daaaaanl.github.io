@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111finalproj1.PNG
+image: images/ics111finalproj1-1.PNG
 title: ICS111 Final Project
 date: 2016
 labels:
