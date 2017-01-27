@@ -18,7 +18,7 @@ This is a smart [question](http://stackoverflow.com/questions/2003505/how-to-del
 
 
 ## Example of a not so smart question
-This is a not so smart [question](http://stackoverflow.com/questions/12395894/how-to-read-txt-file-line-by-line/12395974#12395974).
+This is a not so smart [question](http://stackoverflow.com/questions/12395894/how-to-read-txt-file-line-by-line).
 The user who asks the questions clearly has not done research beforehand as their subject header has been marked as a duplicated by themselves. They give an example piece of code and two outputs they want the program to output. Then they ask if it is possible. The user could have gotten a plain yes or no to the question they asked since they asked if it is possible. Two of the replies were to RTFM. They also got a reply of “yes, it is possible, ...” by another user.
 
 ## Insights
