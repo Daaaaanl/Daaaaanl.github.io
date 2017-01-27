@@ -14,11 +14,11 @@ Knowing how to ask smart questions is something everyone should learn to do. It 
 
 
 ## Example of a smart question
-This is a smart[question](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely). The user clearly states the problem in the subject header. In their description, they gave a 1 line summary of what they need help with. The user was not lazy to ask the question once they got the problem since they had proof of their attempts. They do not ask for the flat out solution as they ask what they can do differently. By asking what they need to do differently, they learn while doing. The replies the user received were very clear and detailed. One user even went as far as including visuals on what is happening during the process. This question asked by the user is a very smart question that can be of help to many people, which is why so many people put time and effort to answer this question.
+This is a smart [question](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely). The user clearly states the problem in the subject header. In their description, they gave a 1 line summary of what they need help with. The user was not lazy to ask the question once they got the problem since they had proof of their attempts. They do not ask for the flat out solution as they ask what they can do differently. By asking what they need to do differently, they learn while doing. The replies the user received were very clear and detailed. One user even went as far as including visuals on what is happening during the process. This question asked by the user is a very smart question that can be of help to many people, which is why so many people put time and effort to answer this question.
 
 
 ## Example of a not so smart question
-This is a not so smart[question](http://stackoverflow.com/questions/12395894/how-to-read-txt-file-line-by-line/12395974#12395974).
+This is a not so smart [question](http://stackoverflow.com/questions/12395894/how-to-read-txt-file-line-by-line/12395974#12395974).
 The user who asks the questions clearly has not done research beforehand as their subject header has been marked as a duplicated by themselves. They give an example piece of code and two outputs they want the program to output. Then they ask if it is possible. The user could have gotten a plain yes or no to the question they asked since they asked if it is possible. Two of the replies were to RTFM. They also got a reply of “yes, it is possible, ...” by another user.
 
 ## Insights
