@@ -11,7 +11,7 @@ summary: Reflection on Coding Standards
 
 ## Those are some pretty high standards.
 
-<img class="ui small left rounded floated image" src="../images/intellij_idea_logo.png">
+<img class="ui medium left rounded floated image" src="../images/intellij_idea_logo.png">
 
 I think that coding standards are an important aspect of software engineering. Coding standards should be what they were meant to be, standards. These include the number of whitespaces after you press tab, where to start and end a curly brace, and how many blank lines are allowed. They help improve readability to minimize the amount of errors one might make while writing code. It would also help others to help diagnose what may be wrong when they look the code. If it was code with no coding standards, the person may take half their time helping you trying to figure out the format of the code so they don't get confused at what the code actually does.
 
