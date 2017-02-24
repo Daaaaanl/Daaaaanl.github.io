@@ -9,6 +9,9 @@ summary: Reflection on UI Frameworks
 ---
 
 ## Some header
+
+<img class="ui small right floated image" src="../images/semantic-ui-logo.png">
+
 Semantic UI can make things more simple and user friendly by using natural language. Using frameworks like Semantic UI and Bootstrap make web pages much more responsive and presentable.
 
 
