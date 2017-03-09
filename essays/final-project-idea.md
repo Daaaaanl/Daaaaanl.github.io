@@ -8,25 +8,34 @@ labels:
   - Meteor
 ---
 
+// This essay was collaboratively written by Kelly Lee and Dan Li.
+
 # Project: Share The Umbrellas
 
 ## Overview
 
 The problem: UH rains a lot. Umbrellas can be a hassle to carry. People usually don't carry around umbrellas so if it does rain, they will not be prepared.
 
-The solution: Tha app will allow you to login and determine:
+The solution: The app will allow you to login and determine:
 <ul>
   <li>Where are the locations of the umbrellas.</li>
   <li>Where there are umbrellas.</li>
 </ul>
 
-There will be random umbrella stations around the campus like the give a penny take a penny.
+There will be random umbrella stations around the campus where people can leave an umbrella or take a umbrella.
 
 
 ## Mockup page ideas
 Some possible mockup pages include:
+<ul>
+  <li>Public landing page</li>
+  <li>Login page</li>
+  <li>Map page</li>
+</ul>
 
 
 ## Use case ideas
+
+
 
 ## Beyond the Basics
