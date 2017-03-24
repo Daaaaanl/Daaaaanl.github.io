@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-// This essay was collaboratively written by Kelly Lee and Dan Li.
+<!-- This essay was collaboratively written by Kelly Lee and Dan Li. -->
 
 # Project: Share The Umbrellas
 
