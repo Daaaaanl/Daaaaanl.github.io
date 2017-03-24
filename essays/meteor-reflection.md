@@ -1,7 +1,7 @@
 ---
 layout: essay
-type: draft
-title: "Meteor Reflection"
+type: essay
+title: "Meteor Smash"
 date: 2017-03-23
 labels:
   - Software Engineering
@@ -9,11 +9,11 @@ labels:
   - MongoDB
 ---
 
-<img class="ui floated image" src="../images/meteor-logo.jpg">
+<img class="ui floated right image" src="../images/meteor-logo.jpg">
 
-# Meteor Smash
+# Ouch My Head Hurts
 
-Starting off with meteor, it hit me in the head and left a dent. With the very first meteor tutorial that we did. The spacebars (similar to handlebars) were a bit too much to handle.
+Starting off with meteor, it hit me in the head and left a dent. With the very first meteor tutorial that we did, I followed all teh steps and something happened but I had no clue of how anything worked. The spacebars (similar to handlebars) were a bit too much to handle.
 
 I found the new format and use of spacebars to be pretty hard. Learning how to use a "Collection" and learning about "Publishing" and "Subscribing" was definitely something new to me. Something that would also be hard would be building everything from scratch. We had templates to follow so that made everything a lot easier.
 
@@ -23,9 +23,8 @@ My first impression on meteor was, “Coolio, I can make apps with this¿¿¿”
 
 ## Recovering From The Smash
 
-As I completed the detailed assignments, meteor
-
+As I completed the detailed assignments, using meteor came to me a bit more naturally. We had an assignment called Digits that was separated into six parts. After finishing each part twice, I did the whole assignment one more time from start to finish. I had to look back at the screencasts the professor provided a few times to jog my memory but that helped me solidify what I learned even more.
 
 ## Trailing Thoughts
 
-Now I have more experience with Meteor, the dent on my head is slowly going back to normal.
+Now I have more experience with Meteor, the dent on my head is slowly going back to normal. As we head into working on the final project, I am more comfortable with using Meteor but there is still a long way to go in order to get a full understanding of everything that happens inside Meteor.
