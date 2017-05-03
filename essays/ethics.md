@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: GLO \#6 for College and Beyond
+title: GLO #6 for College and Beyond
 date: 2017-05-02
 labels:
   - Software Engineering
