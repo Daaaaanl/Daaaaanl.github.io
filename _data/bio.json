@@ -48,7 +48,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "C",
         "Java",
@@ -57,21 +57,29 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "Git/GitHub",
+        "Windows",
+        "Meteor",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314",
       ]
     }
   ],
@@ -79,7 +87,7 @@
     {
       "company": "Hawaii State Library",
       "position": "Library Assistant III",
-      "website": "",
+      "website": "http://www.librarieshawaii.org/",
       "startDate": "2015-09-01",
       "endDate": "Present",
       "summary": "",
@@ -92,7 +100,7 @@
     {
       "company": "Hawaii State Library",
       "position": "Student Helper I",
-      "website": "",
+      "website": "http://www.librarieshawaii.org/",
       "startDate": "2013-04-16",
       "endDate": "2015-08-31",
       "summary": "",
