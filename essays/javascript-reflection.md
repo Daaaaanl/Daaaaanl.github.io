@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: What Do I Think About JavaScript?
 date: 2017-01-19
 labels:
