@@ -48,7 +48,7 @@
       "name": "Japanese",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -57,7 +57,7 @@
       "keywords": [
         "C",
         "Java",
-        "JavaScript",
+        "JavaScript"
       ]
     },
     {
@@ -67,7 +67,7 @@
         "Git/GitHub",
         "Windows",
         "Semantic UI",
-        "Meteor",
+        "Meteor"
       ]
     }
   ],
@@ -85,7 +85,7 @@
         "ICS 141",
         "ICS 241",
         "ICS 311",
-        "ICS 314",
+        "ICS 314"
       ]
     }
   ],
@@ -100,7 +100,7 @@
       "highlights": [
         "Process magazines",
         "Maintain current and previous magazines titles",
-        "Assist patrons with computer problems and research",
+        "Assist patrons with research and computer related issues ",
         "All the responsibilities of a student helper included"
       ]
     },
@@ -112,7 +112,7 @@
       "endDate": "2015-08-31",
       "summary": "",
       "highlights": [
-        "Process newpapers",
+        "Process newspapers",
         "Assist patrons regarding newspapers, magazines, and microfilm/microfiche", 
         "Maintain current and previous newspaper titles"
       ]
@@ -123,7 +123,7 @@
       "title": "B+ Scholarship",
       "date": "2014-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawaii public school."
     }
   ],
   "references": [
