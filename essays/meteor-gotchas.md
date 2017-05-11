@@ -15,10 +15,9 @@ When you first start off with something new, there are bound to be problems. Mos
 
 ## Is It Even Working?
 
-<img class="ui medium right rounded floated image" src="../images/meteor-gotchas-working.png">
-
 The first problem I have encountered when using meteor was the slow startup time. Other classmates had problems like this and found solutions and shared it. The professor then updates a page with meteor tips to help everyone to configure their settings to optimize the meteor app startup time. In my case, I am using Git Bash, a command prompt alternative, and there is no status bar so I don't know if the command I put in is working or not. I waited over 10 minutes before stopping it and wondering what was wrong. I wouldn't know if the computer was doing anything so I got stuck wondering if it was even working. I then remembered one of my classmates had a problem like this and tried his solution. The solution worked very well and the first time took a few minutes and every time after that took less than a minute for meteor to start up. Getting something to work after having problems is a very good feeling.
 
+<img class="ui medium right rounded floated image" src="../images/meteor-gotchas-working.png">
 
 ## Where Are The Imported Goods?
 
