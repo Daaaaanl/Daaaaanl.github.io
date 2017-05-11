@@ -32,10 +32,7 @@ The project was made with Javascript using Semantic UI framework, Meteor as the 
 ## What Did I Do?
 My contributions to the project include managing the overall project and updating the github.io page. I was in charge of the profile page, UH CAS system, and creating and managing the database. There was also collaboration between each group member on most of the issues to make sure each issue was resolved quickly. There was collective group effort on the designing of pages and content of pages.
 
-
 ## With Great Struggle Comes Great Knowledge
 What I learned from this experience was a mix together of what I learned in Software Engineering. These include Javascript, HTML, CSS, GitHub, Semantic UI, Meteor, Quality Assurance, and Project Management. Many of these concepts were learned early on and it took a bit of relearning in order to be able to put every piece of this puzzle together. Working in a group using GitHub started out as a bit of a challenge since we had to learn how to branch, push, pull, and merge without breaking the project. Learning to follow the [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-guidelines-idpm.html) guidelines set by Professor Johnson using GitHub’s features like the milestones and projects proved to be very helpful in keeping us organized and on track of what we had to get done. 
 
-
-Check out the complete project page on [GitHub:](https://campusjam.github.io/).
-
+Check out the complete project page on [GitHub](https://campusjam.github.io/).
