@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: "Final Project Idea"
 date: 2017-03-09
 labels:

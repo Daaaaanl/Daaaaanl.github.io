@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: "Meteor Smash"
 date: 2017-03-23
 labels:

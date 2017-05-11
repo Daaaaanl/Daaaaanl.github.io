@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: GLO Number 6 for College and Beyond
 date: 2017-05-02
 labels:

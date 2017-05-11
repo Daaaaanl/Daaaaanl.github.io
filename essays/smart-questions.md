@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart questions
+title: You Have a Question? Is it a Smart Question?
 date: 2017-01-26
 labels:
   - StackOverflow
@@ -10,7 +10,7 @@ summary: Analyzing smart and not so smart questions.
 
 ## Why should you ask smart questions?
 
-Knowing how to ask smart questions is something everyone should learn to do. It helps you and everyone find a solution if there is one. When one person has a questions it is also likely for others to have the same question. By asking a smart question, it will make the ones who know the answer more willing to help. It is essential for software engineers especially, to know how to ask smart questions because vague not-smart questions may get his with RTFM or STFW. Getting clear and concise answers is what software engineers need since spaghetti code doesn’t do anyone any good.
+Knowing how to ask smart questions is something everyone should learn to do. It helps you and everyone find a solution if there is one. When one person has a questions it is also likely for others to have the same question. By asking a smart question, it will make the ones who know the answer more willing to help. It is essential for software engineers especially, to know how to ask smart questions because vague not-smart questions may get his with RTFM (Read the F-en Manual) or STFW (Search the F-en Web). Getting clear and concise answers is what software engineers need since spaghetti code doesn’t do anyone any good.
 
 
 ## Example of a smart question
