@@ -15,7 +15,7 @@ summary: Reflection on Coding Standards
 
 I think that coding standards are an important aspect of software engineering. Coding standards should be what they were meant to be, standards. These include the number of whitespaces after you press tab, where to start and end a curly brace, and how many blank lines are allowed. They help improve readability to minimize the amount of errors one might make while writing code. It would also help others to help diagnose what may be wrong when they look the code. If it was code with no coding standards, the person may take half their time helping you trying to figure out the format of the code so they don't get confused at what the code actually does.
 
-### My Code Hurt Someone's Eyes
+### My code hurt someone's eyes
 
 When I was taking ICS 211 (Intro to Computer Science II), I asked the assistant teacher assistant to help me out with my code on the Eclipse IDE. The first thing he always told me to do even before looking at the contents of my code was to press ctrl + shift + f to format the code. This made me more aware how I should write my code so it becomes more readable for others. Every extra bit of whitespace can make your code very hard on your own and other people's eyes. Don't you think we need coding standards?
 
