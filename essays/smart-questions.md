@@ -7,7 +7,7 @@ labels:
   - StackOverflow
 summary: Analyzing smart and not so smart questions.
 ---
-<img class="ui small left rounded floated image" src="../images/smart-question.jpg">
+<img class="ui medium left rounded floated image" src="../images/smart-question.jpg">
 
 ## Why should you ask smart questions?
 
