@@ -19,7 +19,7 @@ summary: A Meteor Application for the University of Hawaii Community. Create you
 
 # I Feel Like Jammin'
 
-<img class="ui medium left rounded floated image" src="../images/campusjam-home-page.PNG">
+<img class="ui large left rounded floated image" src="../images/campusjam-home-page.PNG">
 
 Campus Jam is an app that provides University of Hawaii community members a way to learn, make friends, and jam it out with fellow community members. Anyone with a UH account (with their accounts added onto the CAS test servers) can login and create a profile. After creating a profile, they can see other users in their community as well as any past and upcoming events on their home page. The user can browse for other members with the same goals, tastes, and capabilities. They could also search for people with certain capabilities that they may want to have a casual jam session with or even create a band. Lastly, there is an event page used to create events.
 
