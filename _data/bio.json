@@ -6,7 +6,7 @@
     "email": "danli@hawaii.edu",
     "phone": "808-841-8220",
     "website": "https://dandli.github.io",
-    "summary": "I am pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am a University of Hawaii at Manoa graduate with a B.S. in Computer Science.",
     "location": {
       "address": "1119 Kokea St. C-301",
       "postalCode": "96817",
@@ -75,10 +75,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
+      "endDate": "2019-05-11",
       "gpa": "",
       "courses": [
         "ICS 111: Intro to Computer Science I",
@@ -132,7 +132,7 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2014-Present",
+      "date": "2014-2018",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawaii public school."
     }
